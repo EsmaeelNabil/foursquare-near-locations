@@ -16,7 +16,7 @@ A            |  A
 - Unit-testing  
 
 
-### Features
+### Structure Features
 * [Hiding secretKeys in properties Files using gradle secrets](https://github.com/google/secrets-gradle-plugin)
 * [Dependencies Versions & update plugin](https://jmfayard.github.io/refreshVersions/)
 * [Dagger-Hilt](https://dagger.dev/hilt/gradle-setup)
