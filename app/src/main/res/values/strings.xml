@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Near Locations</string>
+    <string name="invalid_url">invalid url</string>
+    <string name="error">error</string>
+    <string name="internet_error_message">internet_error_message</string>
+    <string name="time_out_message">time out message</string>
+
+    <string name="locus_rationale_title">Rationale Title</string>
+    <string name="locus_rationale_message">This is a rationale message.</string>
+    <string name="locus_permission_blocked_title">Permission Blocked Title</string>
+    <string name="locus_permission_blocked_message">This is a permission blocked message.</string>
+    <string name="locus_location_resolution_title">Permission Resolution Title</string>
+    <string name="locus_location_resolution_message">This is a permission resolution message.</string>
+    <string name="refresh_location">refresh location</string>
+    <string name="empty_message">Unfortunately we didn\'t find nearby venues around you!\n</string>
+    <string name="empty_message_subtitle">Move into a new place and refresh</string>
+    <string name="permissions_needed">Location Permission is needed for this app to work</string>
+    <string name="permissions_granted">Permissions Granted</string>
+    <string name="waiting_for_location">Waiting for user location ....</string>
+    <string name="next">Next</string>
+    <string name="accept_permissions_in_settings">Accept Permissions in Settings</string>
+    <string name="confirm">Confirm</string>
+</resources>
