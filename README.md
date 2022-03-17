@@ -1,6 +1,6 @@
 
 ### [Download APK](https://drive.google.com/file/d/1I6MMBrUmwhG-avq5Km_WfQWnGaZdz5pD/view?usp=sharing)
-### [Base Structure is Copied from my own structure here](https://github.com/EsmaeelNabil/refresh-starter-template/tree/hilt)
+### [Structure is Based on my own structure here](https://github.com/EsmaeelNabil/refresh-starter-template/tree/hilt)
 
 
 A            |  A
