@@ -1,4 +1,3 @@
-# Adyen Android Assignment
 
 This repository contains the coding challenge for candidates applying for an Android role at Adyen.
 
