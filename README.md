@@ -1,16 +1,13 @@
 
-### [Download APK](https://drive.google.com/file/d/15fCwwFhVfmFDi42J-dUlAC1Li0qLngPp/view?usp=sharing)
+### [Download APK](https://drive.google.com/file/d/1I6MMBrUmwhG-avq5Km_WfQWnGaZdz5pD/view?usp=sharing)
 ### [Base Structure is Copied from my own structure here](https://github.com/EsmaeelNabil/refresh-starter-template/tree/hilt)
 
 
-<br>
-<br>
-<p align="center">
-    <img src="./art/screen.png">
-    <br>
-</p>
-<br>
-<br>
+A            |  A
+:-------------------------:|:-------------------------:
+![](./art/permissions-screen.png)  |  ![](./art/permissions-screen2.png)
+![](./art/location-screen.png)  |  ![](./art/empty-screen.png)
+![](./art/list-screen.png)  |  ![](./art/list-screen.png)
 
 #### requirements
 
