@@ -20,9 +20,9 @@ A            |  A
 * [Hiding secretKeys in properties Files using gradle secrets](https://github.com/google/secrets-gradle-plugin)
 * [Dependencies Versions & update plugin](https://jmfayard.github.io/refreshVersions/)
 * [Dagger-Hilt](https://dagger.dev/hilt/gradle-setup)
-* [Usecasesapproach](https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576)
-* [Dependecy inversion](https://medium.com/@kedren.villena/simplifying-dependency-inversion-principle-dip-59228122649a)
- and [SOILID](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) 
+* [Usecases Approach](https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576)
+* [Dependency inversion](https://medium.com/@kedren.villena/simplifying-dependency-inversion-principle-dip-59228122649a)
+ and [SOLID](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) 
 
 
 ---
