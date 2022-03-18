@@ -1,20 +1,20 @@
 
-### [Download APK](https://drive.google.com/file/d/1I6MMBrUmwhG-avq5Km_WfQWnGaZdz5pD/view?usp=sharing)
-### [Structure is Based on my own structure here](https://github.com/EsmaeelNabil/refresh-starter-template/tree/hilt)
-
-
 A            |  A
 :-------------------------:|:-------------------------:
 ![](./art/permissions-screen.png)  |  ![](./art/permissions-screen2.png)
 ![](./art/location-screen.png)  |  ![](./art/empty-screen.png)
 ![](./art/list-screen.png)  |  ![](./art/list-screen.png)
 
+### [Download APK](https://drive.google.com/file/d/1I6MMBrUmwhG-avq5Km_WfQWnGaZdz5pD/view?usp=sharing)
+
 #### Task Features
 - implementation of a small app using the Foursquare Places API that shows a list of venues around the user’s location.
 - permissions handling
 - live tracking user location only when the user uses the app on specific screen.
-- Unit-testing  
+- Unit Testing using [mockK](https://mockk.io/), [Kotest](https://github.com/kotest/kotest), [turbine](https://github.com/cashapp/turbine)
+- Ui Testing using [Kapresso](https://github.com/KasperskyLab/Kaspresso)
 
+#### [Structure is Based on my own structure here](https://github.com/EsmaeelNabil/refresh-starter-template/tree/hilt)
 
 ### Structure Features
 * [Hiding secretKeys in properties Files using gradle secrets](https://github.com/google/secrets-gradle-plugin)

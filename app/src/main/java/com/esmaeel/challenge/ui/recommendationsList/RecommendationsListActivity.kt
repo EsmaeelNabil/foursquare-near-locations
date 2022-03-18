@@ -59,7 +59,7 @@ class RecommendationsListActivity :
             getData()
         }
 
-        locationButton.setOnClickListener {
+        refreshButton.setOnClickListener {
             getData()
         }
 

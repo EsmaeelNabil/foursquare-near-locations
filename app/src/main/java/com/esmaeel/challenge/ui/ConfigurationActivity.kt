@@ -29,6 +29,11 @@ class ConfigurationActivity : AppCompatActivity() {
         checkPermissions()
     }
 
+    /**
+     * we could use registerForActivity new apis for requesting permissions
+     * but for simplicity, i have chosen a library that does the same rather-
+     * than reinventing the wheel.
+     */
     private fun checkPermissions() {
         lifecycleScope.launch(Dispatchers.Main) {
             repeatOnLifecycle(Lifecycle.State.STARTED) {

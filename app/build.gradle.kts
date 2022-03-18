@@ -131,6 +131,7 @@ dependencies {
     testImplementation(Libs.truth)
     testImplementation(Libs.turbine)
     testImplementation(AndroidX.test.core)
+    implementation(AndroidX.test.core)
     testImplementation(KotlinX.coroutines.test)
     testImplementation(Kotlin.test.testng)
     testImplementation(AndroidX.test.coreKtx)

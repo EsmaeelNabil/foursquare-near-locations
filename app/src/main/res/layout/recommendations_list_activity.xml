@@ -54,7 +54,7 @@
             app:layout_constraintTop_toBottomOf="@id/includedToolbar" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/locationButton"
+            android:id="@+id/refreshButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="24dp"
