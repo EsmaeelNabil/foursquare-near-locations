@@ -12,7 +12,7 @@ A            |  A
 - permissions handling
 - live tracking user location only when the user uses the app on specific screen.
 - Unit Testing using [mockK](https://mockk.io/), [Kotest](https://github.com/kotest/kotest), [turbine](https://github.com/cashapp/turbine)
-- Ui Testing using [Kapresso](https://github.com/KasperskyLab/Kaspresso)
+- Ui Testing using [Kaspresso](https://github.com/KasperskyLab/Kaspresso)
 
 #### [Structure is Based on my own structure here](https://github.com/EsmaeelNabil/refresh-starter-template/tree/hilt)
 
