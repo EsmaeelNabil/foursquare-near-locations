@@ -4,7 +4,7 @@ plugins {
     kotlin("kapt")
     id("dagger.hilt.android.plugin")
     id("org.jlleitschuh.gradle.ktlint") version "9.4.0"
-    id("com.google.secrets_gradle_plugin") version "0.6"
+    id("com.google.secrets_gradle_plugin") version "0.6.1"
 }
 
 secrets {
