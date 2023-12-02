@@ -3,7 +3,7 @@ plugins {
     kotlin("android")
     kotlin("kapt")
     id("dagger.hilt.android.plugin")
-    id("org.jlleitschuh.gradle.ktlint") version "9.4.0"
+    id("org.jlleitschuh.gradle.ktlint") version "12.0.2"
     id("com.google.secrets_gradle_plugin") version "0.6"
 }
 
